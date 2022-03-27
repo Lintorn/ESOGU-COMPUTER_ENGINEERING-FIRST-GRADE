@@ -1,0 +1,2 @@
+# ESOGU-COMPUTER_ENGINEERING-FIRST-GRADE
+first year in collage
