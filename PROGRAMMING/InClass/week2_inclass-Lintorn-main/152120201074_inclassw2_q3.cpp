@@ -7,7 +7,7 @@ int main(){
 
     for (int t=0; t< 10; t++) {
         for (int i= 0; i< 10; i++) {
-        if (A[i]==0) {
+        if (A[i]==0) { // if zero is found indexes that comes after that zero shift once to left
             for (int j = i; j<9; j++) {
                 A[j] = A[j+1];
             }
